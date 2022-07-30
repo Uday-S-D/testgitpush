@@ -1,0 +1,18 @@
+INFO:root:This is my very first code for loggging
+INFO:root:This is my very first code for loggging
+INFO:root:2
+INFO:root:This is my very first code for loggging
+INFO:root:2
+WARNING:root:this will tryy to load warning messages
+INFO:root:This is my very first code for loggging
+INFO:root:2
+WARNING:root:this will tryy to load warning messages
+ERROR:root:this is a error message froom the system
+INFO:root:This is my very first code for loggging
+INFO:root:2
+WARNING:root:this will tryy to load warning messages
+ERROR:root:this is a error message froom the system
+INFO:root:This is my very first code for loggging
+INFO:root:2
+WARNING:root:this will tryy to load warning messages
+ERROR:root:this is a error message froom the system

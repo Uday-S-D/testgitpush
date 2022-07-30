@@ -1,0 +1,12 @@
+    CRITICAL 2022-07-21 14:09:18,127 root this is a situation for us
+ERROR 2022-07-21 14:09:18,127 root name 'loggigng' is not defined
+CRITICAL 2022-07-21 14:10:40,476 root this is a situation for us
+ERROR 2022-07-21 14:10:40,476 root name 'loggigng' is not defined
+INFO 2022-07-21 14:14:10,866 root i'm trying to read a file
+CRITICAL 2022-07-21 14:14:10,866 root this is a situation for us
+ERROR 2022-07-21 14:14:10,866 root [Errno 2] No such file or directory: 'test.txt'
+ERROR 2022-07-21 14:14:10,866 root [Errno 2] No such file or directory: 'test.txt'
+Traceback (most recent call last):
+  File "C:\Users\Bellary's\pythonProject\test2.py", line 6, in <module>
+    with open("test.txt", "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'test.txt'

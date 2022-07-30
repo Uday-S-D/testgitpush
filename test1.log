@@ -1,0 +1,23 @@
+2022-07-21 13:08:03,334 root INFO THE NUMBER ENTERED BY USER IS 3 and 6
+2022-07-21 13:09:14,891 root INFO THE NUMBER ENTERED BY USER IS 3 and 6
+2022-07-21 13:09:49,170 root INFO THE NUMBER ENTERED BY USER IS 3 and 6
+2022-07-21 13:20:03,528 root INFO THE NUMBER ENTERED BY USER IS 3 and 6
+2022-07-21 13:20:03,528 root INFO We are into function
+2022-07-21 13:20:03,528 root INFO we have completed division expression
+2022-07-21 13:21:24,901 root INFO THE NUMBER ENTERED BY USER IS 3 and 6
+2022-07-21 13:21:24,901 root INFO We are into function
+2022-07-21 13:21:24,901 root INFO we have completed division expression
+2022-07-21 13:22:54,013 root INFO THE NUMBER ENTERED BY USER IS 3 and 0
+2022-07-21 13:22:54,013 root INFO We are into function
+2022-07-21 13:22:54,013 root ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\Bellary's\pythonProject\test1.py", line 8, in divide
+    div=a/b
+ZeroDivisionError: division by zero
+2022-07-21 13:25:04,227 root INFO THE NUMBER ENTERED BY USER IS 3 and 0
+2022-07-21 13:25:04,227 root INFO We are into function
+2022-07-21 13:25:04,227 root ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\Bellary's\pythonProject\test1.py", line 8, in divide
+    div=a/b
+ZeroDivisionError: division by zero
